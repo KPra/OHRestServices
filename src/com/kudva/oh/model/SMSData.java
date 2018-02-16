@@ -1,4 +1,4 @@
-package com.kudva.oh.sms;
+package com.kudva.oh.model;
 
 public class SMSData {
 	public String email;
